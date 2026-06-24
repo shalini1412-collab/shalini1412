@@ -1,10 +1,10 @@
 👋 Hi, I'm I. Shalini
 
-🎓 3rd Year IT Student @ Paarthyusha Engineering College
+🎓 3rd Year IT Student @ Prathyusha Engineering College
 🤖 Currently on a 30-Day AI Challenge
 🌱 Learning Python | ML | Deep Learning | GenAI
 💡 Curious about AI and building in public
-📍 Chennai, India
+📍 thiruvallur, India
 📫 Reach me on LinkedIn: [https://www.linkedin.com/in/shalini-i-73aaa3343]
 
 ---
